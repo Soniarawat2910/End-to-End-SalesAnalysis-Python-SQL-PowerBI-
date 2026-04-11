@@ -113,6 +113,7 @@ The dataset contains:
 
 ### Power BI DASHBOARDS 
 
+PRINT('*'*50)
 ### **Executive Summary**
 <img src="doc/Executive%20Summary.png" width="900"/>
 
