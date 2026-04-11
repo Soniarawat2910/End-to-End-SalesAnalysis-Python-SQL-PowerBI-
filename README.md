@@ -113,18 +113,27 @@ The dataset contains:
 
 ### Power BI DASHBOARDS 
 
-PRINT('*'*50)
+*****************************************************************************************************************************
+
 ### **Executive Summary**
 <img src="doc/Executive%20Summary.png" width="900"/>
+
+*****************************************************************************************************************************
 
 ### **Sales & Product**
 <img src="doc/Sales%20&%20Product.png" width="900"/>
 
+*****************************************************************************************************************************
+
 ### **Customer Analysis**
 <img src="doc/Customer%20Analysis.png" width="900"/>
 
+*****************************************************************************************************************************
+
 ### **Delivery & Operations**
 <img src="doc/Delivery%20&%20Operations.png" width="900"/>
+
+*****************************************************************************************************************************
 
 ### Goal:
 To uncover key business insights, identify growth opportunities, and provide actionable recommendations to improve sales, customer retention, and operational efficiency.
