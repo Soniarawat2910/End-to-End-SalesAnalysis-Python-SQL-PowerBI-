@@ -57,7 +57,7 @@ The dataset contains:
 
 #### Over Final Master Sales Data Contains Columns AS : 
 
-![Master Sales Data Info](Master%20Sales%20Data%20Info.png)
+![Master Sales Data Info](doc/Master%20Sales%20Data%20Info.png)
 
 ### 2. SQL Analysis
 - Created queries to extract insights
