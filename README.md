@@ -135,11 +135,24 @@ The dataset contains:
 
 *****************************************************************************************************************************
 
-### Goal:
-To uncover key business insights, identify growth opportunities, and provide actionable recommendations to improve sales, customer retention, and operational efficiency.
+## 🚀 How to Run
 
+1. Clone the repository  
+2. Open Jupyter Notebook  
+3. Run the Python file for data cleaning name as (**Cleaning_Brazilian E-Commerce by Olist.ipynb**)
+4. Run the other Python File for data insights name as (**Basic Insights of Dataset.ipynb**)
+5. Open SQL Execute SQL queries Where all the data output table present on the end of the script(**Advance_Analysis.sql**)
+6. Open Power BI dashboard file where all the dashboards are present (**Brazil_Ecommerce_Sales_Dashboard.pbix**)
 
+## 📌 Conclusion
 
+This project demonstrates  data analysis of e-commerce businesses.
+**Key to improve the business**
+- Very less customers are regular customer so they need to make a good connection with customers so that customer came regulary
+- Only 3-4 Products cover the most revenue of sales That means many of the products are not that in demand so either they need to promot the product or either remove very less purchasable product
+- Most of the deliverys are on time but still they need to improve and find out the reasons of late delivery so that customers expirence should be good
+- Need to gave some free or discount products to the regular customers it takes a great guesture and more customers starts coming regulart
 
+## 🔗 Connect With Me
 
-**Key Goal**: Deliver insights using Python, Advanced SQL, and Power BI Dashboard.
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/sonia-58a357265/))
