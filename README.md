@@ -155,4 +155,4 @@ This project demonstrates  data analysis of e-commerce businesses.
 
 ## 🔗 Connect With Me
 
-- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/sonia-58a357265/))
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/sonia-58a357265)
