@@ -58,6 +58,17 @@ The dataset contains:
 #### Over Final Master Sales Data Contains Columns AS : 
 <img src="doc/Master%20Sales%20Data%20Info.png" width="900"/>
 
+
+### 2. Basic Data Insights (Python)
+-  Imported the new latest cleaned file
+-  Find Out Basic but usefull data trends
+-  Using different charts like **Bar Chart** , **Line Chart** , **Histplot Chart**,**Bar Chart**
+
+#### File Conclustion 
+- **There Is A Huge Growth In Business Between 2027-2018 Where in Nov 2017 Gots The Highest Revenue**
+<img src="doc/Monthly%20Revenue%20Trend.jpg" width="900"/>
+
+
 ### 2. SQL Analysis
 - Created queries to extract insights
 - Performed joins across multiple tables
