@@ -68,6 +68,18 @@ The dataset contains:
 - **There Is A Huge Growth In Business Between 2027-2018 Where in Nov 2017 Gots The Highest Revenue**
 <img src="doc/Monthly%20Revenue%20Trend.jpg" width="900"/>
 
+- **Bed & Bath Table, Health & Beauty, and Computers & Accessories Are The Top 3 Revenue-Generating Categories Which Together Contribute A Significant Portion Of Total Revenue**
+<img src="doc/Top%2010%20Categories%20By%20Revenue.jpg" width="900"/>
+
+- **In Brazilian State São Paulo (SP) ,  Rio de Janeiro (RJ),Minas Gerais (MG) Contribute More Than 60% Of Total Revenue**
+<img src="doc/Top%2010%20states%20by%20revenue.jpg.jpg" width="900"/>
+
+- **More Than 95% Of Orders Are Successfully Delivered Which Is Quite Good Performance**
+<img src="doc/Order%20Status.jpg.jpg" width="900"/>
+
+- **Revenue And Order Volume Are Strongly Correlated & There Is A Good Amount Of Growth In Business After Nov2017**
+<img src="doc/Monthly%20Revenue%20Trend.jpg" width="900"/>
+
 
 ### 2. SQL Analysis
 - Created queries to extract insights
