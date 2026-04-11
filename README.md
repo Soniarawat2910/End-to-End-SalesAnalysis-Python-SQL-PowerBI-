@@ -56,8 +56,7 @@ The dataset contains:
 - Merged multiple datasets into one sheet named as **master_sales_data**
 
 #### Over Final Master Sales Data Contains Columns AS : 
-<img src="doc/Master%20Sales%20Data%20Info.png" width="700"/>
-![Master Sales Data Info](doc/Master%20Sales%20Data%20Info.png)
+<img src="doc/Master%20Sales%20Data%20Info.png" width="900"/>
 
 ### 2. SQL Analysis
 - Created queries to extract insights
