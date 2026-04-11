@@ -1,5 +1,5 @@
 
--- All The Final Tables Are End Of The File List 
+-- All The Final Outputs Are End Of The File List 
 
 -- =============================================
 -- Creating DataBase And Storing Different Table On It 
