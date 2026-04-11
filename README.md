@@ -72,10 +72,10 @@ The dataset contains:
 <img src="doc/Top%2010%20Categories%20By%20Revenue.jpg" width="900"/>
 
 - **In Brazilian State São Paulo (SP) ,  Rio de Janeiro (RJ),Minas Gerais (MG) Contribute More Than 60% Of Total Revenue**
-<img src="doc/Top%2010%20states%20by%20revenue.jpg.jpg" width="900"/>
+<img src="doc/Top%2010%20states%20by%20revenue.jpg" width="900"/>
 
 - **More Than 95% Of Orders Are Successfully Delivered Which Is Quite Good Performance**
-<img src="doc/Order%20Status.jpg.jpg" width="900"/>
+<img src="doc/Order%20Status.jpg" width="900"/>
 
 - **Revenue And Order Volume Are Strongly Correlated & There Is A Good Amount Of Growth In Business After Nov2017**
 <img src="doc/Monthly%20Revenue%20Trend.jpg" width="900"/>
